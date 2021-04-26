@@ -3,30 +3,32 @@ const resume = {
     linkedin: 'https://www.linkedin.com/in/vincent-h-hu',
     github: 'https://github.com/vincentgbs',
     address: 'Doraville, Atlanta, GA 30341',
-    phone: '(404) 981-4727',
+    phone: '(000) 000-0000',
     email: 'vincent.gbs11@gmail.com',
-    objective: "A computer science student with experience in financial analysis and web development, looking for a software development internship",
+    objective: "A computer science student with experience in financial analysis, data science, and web development, looking for a software development internship",
     experience: [
         {
-            position:'application development co-op',
+            position:'data scientist',
             location:'atlanta, ga',
             company:'aflac',
             description: [
-                'Updated .NET API codebase to enable automated deployment',
+                'Built Python script to quickly and efficiently analyze recurring auto draft adoption rates',
+                'Developed Python scripts to automate, parse, and manage the customer emails database',
             ],
-            start: 'August 2020',
-            end: 'December 2020'
+            start: 'October 2020',
+            end: 'Present'
         },
         {
-            position:'devops co-op',
+            position:'devops & application development cop',
             location:'atlanta, ga',
             company:'aflac',
             description: [
                 'Implemented Newman for Postman in Build Pipelines to automate unit testing',
                 'Built and deployed a new CI/CD pipeline for the Messaging Process Service',
+                'Updated .NET API codebase to enable automated deployment',
             ],
             start: 'January 2020',
-            end: 'August 2020'
+            end: 'October 2020'
         },
         {
             position:'software analyst intern',
